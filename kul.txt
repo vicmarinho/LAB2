@@ -1,0 +1,18 @@
+﻿clauses
+   capital_of("Russia", "Moscow").
+   capital_of("USA", "Washington, D.C.").
+   capital_of("China", "Beijing").
+   capital_of("Germany", "Berlin").
+   capital_of("France", "Paris").
+
+  continent_of("Russia", "Europe").
+  continent_of("USA", "North America").
+  continent_of("China", "Asia").
+  continent_of("Germany", "Europe").
+  continent_of("France", "Europe").
+
+  population_of("Russia", 144 million).
+  population_of("USA", 331 million).
+  population_of("China", 1444 million).
+  population_of("Germany", 83 million).
+  population_of("France", 67 million).
